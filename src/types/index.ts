@@ -1,16 +1,16 @@
 // 標註相關
 export type {
   Point,
-  AnnotationType,
-  BaseAnnotation,
-  LineAnnotation,
-  CircleAnnotation,
-  RectangleAnnotation,
-  PolygonAnnotation,
+  // AnnotationType,
+  // BaseAnnotation,
+  // LineAnnotation,
+  // CircleAnnotation,
+  // RectangleAnnotation,
+  // PolygonAnnotation,
   Annotation,
-  AnnotationListProps,
-  AnnotationItemProps,
-  ViewerCanvasProps,
+  // AnnotationListProps,
+  // AnnotationItemProps,
+  // ViewerCanvasProps,
 } from './annotation';
 
 // 工具欄相關
@@ -34,7 +34,6 @@ export type {
   LegacyAnnotation,
   LegacyAnnotationListProps,
   LegacyToolBarProps,
-  ImageViewerProps,
   AnnotationInfoProps,
   AnnotationManagerProps,
 } from './legacy';
